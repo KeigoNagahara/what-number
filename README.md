@@ -6,11 +6,15 @@ skleen
 PIL
 
 numpy
+
+$ pip install scikit-learn[alldeps] pillow numpy
 # フレームワーク
 bottle
 
+$ pip install bottle
+
 # 実行メモ
-python start_server.py
+$ python start_server.py
 
 よりローカルホスト
 
